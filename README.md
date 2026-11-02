@@ -1,17 +1,19 @@
 # My Personal Portfolio
 
-Yeh mera personal portfolio website hai jise HTML, CSS, aur JavaScript ka use karke banaya gaya hai[cite: 1]. Is project mein maine apne skills, projects aur contact details ko showcase kiya hai.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. In this project, I have showcased my skills, projects, and contact details.
 
 ## 🚀 Features
-- Responsive design jo sabhi devices par achhi tarah kaam karta hai.
-- About Me, Skills, Projects aur Contact section.
-- Clean aur modern user interface.
+
+* Responsive design that works smoothly across all devices.
+* Includes About Me, Skills, Projects, and Contact sections.
+* Clean and modern user interface.
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+
+* HTML5
+* CSS3
+* JavaScript
 
 ## 🌐 Live Demo
-Aap is portfolio ka live output yahan dekh sakte hain: 
-(Yahan apna GitHub Pages ya Netlify ka live link daal dein)
+
+You can view the live output of this portfolio here: (Insert your GitHub Pages or Netlify live link here)
